@@ -1,0 +1,6 @@
+﻿  Lab5.cpp
+C:\Users\11\source\repos\Lab5\Lab5.cpp(32,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Lab5\Lab5.cpp(30,9): warning C4101:  l: неиспользованная локальная переменная
+C:\Users\11\source\repos\Lab5\Lab5.cpp(45,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Lab5\Lab5.cpp(110,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Lab5.vcxproj -> C:\Users\11\source\repos\Lab5\Debug\Lab5.exe
